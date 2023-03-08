@@ -28,3 +28,10 @@ I seek to develop and grow in the technological field and obtain knowledge in su
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="boostrap" alt="boostrap" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### My stats:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julcontrerass&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julcontrerass&hide_progress=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

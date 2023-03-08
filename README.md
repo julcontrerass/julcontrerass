@@ -11,7 +11,7 @@
 - I am 20 years old. I’m studying software development at UADE and Full Stack development at Soy Henry, Also increasing my knowledge in courses related to programming.
 I seek to develop and grow in the technological field and obtain knowledge in survey and implementation of solutions for different customers.
 
-- How to reach me 📧 jjulian.contrerass@gmail.com
+- Contact me by mail: jjulian.contrerass@gmail.com
 
 <div align="left">
     <h2> 🖥️ Lenguages and tools</h2>
@@ -35,4 +35,12 @@ I seek to develop and grow in the technological field and obtain knowledge in su
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julcontrerass&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julcontrerass&hide_progress=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### Contact me:
+
+<a href="https://linkedin.com/in/juliancontreraslucero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juliancontreraslucero" height="30" width="40" />
+
+
 

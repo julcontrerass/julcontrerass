@@ -1,17 +1,13 @@
-<div id="header" align="center">
-    <h1 align="center">Hi 👋🏻, I'm Julian Contreras!</h1>
-    <img src="https://media.giphy.com/media/QLKSt3wQqlj7a/giphy.gif" width="200"/>
-    <h3 align="center">I'm Full Stack Developer</h3>
-</div>
-
----
+<h1 align="center">Hi 👋🏻, I'm Julian Contreras!</h1>
+<h3 align="center">Full Stack Developer</h3>
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/2c/2d/6f/2c2d6f89218cdb5c6a345d603484755f.gif">
 
 ### 👨‍💻 About Me:
 
-- I am 20 years old. I’m studying software development at UADE and Full Stack development at Soy Henry, Also increasing my knowledge in courses related to programming.
+I am 20 years old. I’m studying software development at UADE and Full Stack development at Soy Henry, Also increasing my knowledge in courses related to programming.
 I seek to develop and grow in the technological field and obtain knowledge in survey and implementation of solutions for different customers.
 
-- Contact me by mail: jjulian.contrerass@gmail.com
+Contact me by mail: jjulian.contrerass@gmail.com
 
 <div align="left">
     <h2> 🖥️ Lenguages and tools</h2>
@@ -38,7 +34,7 @@ I seek to develop and grow in the technological field and obtain knowledge in su
 
 ---
 
-### Contact me:
+### Connect with me:
 
 <a href="https://linkedin.com/in/juliancontreraslucero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juliancontreraslucero" height="30" width="40" />
 

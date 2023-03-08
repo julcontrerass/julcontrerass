@@ -11,7 +11,7 @@
 - I am 20 years old. I’m studying software development at UADE and Full Stack development at Soy Henry, Also increasing my knowledge in courses related to programming.
 I seek to develop and grow in the technological field and obtain knowledge in survey and implementation of solutions for different customers.
 
-- How to reach me 📧 jjulian.contreras@gmail.com
+- How to reach me 📧 jjulian.contrerass@gmail.com
 
 <div align="left">
     <h2> 🖥️ Lenguages and tools</h2>

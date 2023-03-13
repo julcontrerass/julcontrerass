@@ -9,6 +9,8 @@ I seek to develop and grow in the technological field and obtain knowledge in su
 
 Reach me at: jjulian.contrerass@gmail.com
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=julcontrerass&label=Profile%20views&color=0e75b6&style=flat" alt="julcontrerass" /> </p>
+
 <div align="left">
     <h2> 🖥️ Lenguages and tools</h2>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="js" alt="js" width="40" height="40"/>&nbsp;

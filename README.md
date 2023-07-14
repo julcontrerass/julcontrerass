@@ -4,8 +4,8 @@
 
 ### 👨‍💻 About Me:
 
-I am 21 years old. I am studying software development at the University (UADE) and in April 2023 I finished the Full Stack Developer Bootcamp at Soy Henry, also increasing my knowledge in programming-related courses.
-I seek to develop and grow in the technological field and obtain knowledge in surveying and implementing solutions for different clients.
+I am 21 years old. I am a Full Stack Developer, in April 2023 I finished the Full Stack Developer Bootcamp at Soy Henry. Currently I continue to increase my knowledge in courses related to programming such as CoderHouse taking the JavaScript course and doing personal projects.
+
 
 Reach me at: jjulian.contrerass@gmail.com
 

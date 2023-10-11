@@ -4,7 +4,11 @@
 
 ### 👨‍💻 About Me:
 
-I am 21 years old. I am a Full Stack Developer, in April 2023 I finished the Full Stack Developer Bootcamp at Soy Henry. Currently I continue to increase my knowledge in courses related to programming such as CoderHouse taking the JavaScript course and doing personal projects.
+Hello 👋👋, how are you?! Thank you very much for visiting my profile
+
+I am a Full Stack Developer with a focus on the continuous improvement of my skills and knowledge. I have training in web development that has allowed me to develop skills to work effectively as a team and overcome challenges with determination.
+
+My quest for knowledge does not stop there. Currently, I am expanding my skills through advanced courses, such as Microservices Architecture and NoSQL Databases, as well as carrying out personal projects that challenge me and allow me to apply what I have learned in practical situations. I am committed to constant growth and ready to face new challenges in web development.
 
 
 Reach me at: jjulian.contrerass@gmail.com

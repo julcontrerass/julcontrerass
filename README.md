@@ -4,12 +4,13 @@
 
 ### 👨‍💻 About Me:
 
-Hello 👋👋, how are you?! Thank you very much for visiting my profile
+Hello 👋👋, how are you?! Thank you so much for visiting my profile.
 
-I am a Full Stack Developer with a focus on the continuous improvement of my skills and knowledge. I have training in web development that has allowed me to develop skills to work effectively as a team and overcome challenges with determination.
+I am a Full Stack Developer with a focus on continuous improvement of my skills and knowledge. I have a background in web development that has allowed me to develop the skills to work effectively in teams and overcome challenges with determination.
 
-My quest for knowledge does not stop there. Currently, I am expanding my skills through advanced courses, such as Microservices Architecture and NoSQL Databases, as well as carrying out personal projects that challenge me and allow me to apply what I have learned in practical situations. I am committed to constant growth and ready to face new challenges in web development.
+My pursuit of knowledge does not stop there. I am currently pursuing a University Technician degree in Programming at UTN, in addition to carrying out personal projects that challenge me and allow me to apply what I have learned in practical situations.
 
+I am committed to continuous growth and ready to face new challenges in web development.
 
 Reach me at: jjulian.contrerass@gmail.com
 

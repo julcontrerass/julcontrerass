@@ -19,7 +19,7 @@ Reach me at: jjulian.contrerass@gmail.com
 <div align="left">
     <h2> 🖥️ Lenguages and tools</h2>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="js" alt="js" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="ts" alt="ts" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="ts" alt="ts" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-plain.svg" title="seque" alt="seque" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="sql" alt="sql" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="mongo" alt="mongo" width="40" height="40"/>&nbsp;

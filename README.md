@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋🏻, I'm Julian Contreras!</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Backend Developer</h3>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/2c/2d/6f/2c2d6f89218cdb5c6a345d603484755f.gif">
 
 ### 👨‍💻 About Me:
 
 Hello 👋👋, how are you?! Thank you so much for visiting my profile.
 
-I am a Full Stack Developer with a focus on continuous improvement of my skills and knowledge. I have a background in web development that has allowed me to develop the skills to work effectively in teams and overcome challenges with determination.
+I am an emerging backend developer proficient in C++, Python, JavaScript (Node.js, Next.js), and both relational and non-relational databases, including SQL and MongoDB. 
 
-My pursuit of knowledge does not stop there. I am currently pursuing a University Technician degree in Programming at UTN, in addition to carrying out personal projects that challenge me and allow me to apply what I have learned in practical situations.
+I am dedicated to optimizing and constructing scalable, high-performance, and reliable systems.
 
-I am committed to continuous growth and ready to face new challenges in web development.
+My emphasis is on developing efficient backend solutions that serve as a robust foundation for large-scale applications.
+
+I consistently seek new opportunities to engage in challenging projects that facilitate my ongoing learning and professional growth.
 
 Reach me at: jjulian.contrerass@gmail.com
 
@@ -18,6 +20,7 @@ Reach me at: jjulian.contrerass@gmail.com
 
 <div align="left">
     <h2> 🖥️ Lenguages and tools</h2>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="js" alt="js" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="js" alt="js" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="ts" alt="ts" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-plain.svg" title="seque" alt="seque" width="40" height="40"/>&nbsp;
